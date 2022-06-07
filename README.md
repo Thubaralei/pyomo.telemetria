@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/Pyomo/PyomoGallery.svg?branch=master)](https://travis-ci.org/Pyomo/PyomoGallery)
+Utilizando ferramenta pyomo talvez o algoritmo integrador de dados de entrada de csv possa ser possivel, uma interface de entrada de arquivo padronizado desembocando em uma ferramenta de sinais de dados 
+
 
 # PyomoGallery
 A collection of Pyomo examples
